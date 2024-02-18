@@ -8,6 +8,7 @@
         <div class="about-container">
             <h1>About</h1>
             <p>Version 1.0.0</p>
+            <p><a href="https://github.com/soumodip0007/PHP_todo_list" target="_blank" style="text-decoration: none;">Source Code</a></p>
         </div>
     </main>
     <!-- Footer -->
